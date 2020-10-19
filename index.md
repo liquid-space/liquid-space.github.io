@@ -1,4 +1,4 @@
 ---
-title: homepage
+title: Liquid Space
 ---
-## Welcome to Liquid Space! 
+## Welcome! 
